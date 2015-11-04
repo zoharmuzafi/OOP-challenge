@@ -59,7 +59,7 @@ var monster = buzzy.crossPollinate(rose, yellowPoppy);
 console.log(monster);
 ```
 
-### Uber Challenge
+### Render Challenge
 ```
 
 ```
