@@ -93,7 +93,7 @@ These objects still have all of the methods and abilities of the previous object
 made.  The main difference is that they can be customized with specific properties
 at the time of object instantiation.
 
-<h3>Group Challenge</h3>
+<h3>Pair Challenge</h3>
 Create a custom Flower object based on the flower on your table.  Decided amongst your
 tablemates the type of flower, the flower's main color, number of petals, and whether or not it smells pretty.
 Think up some other possible properties.  We need more properties!  Properties are great!  
@@ -102,7 +102,7 @@ Think up some other possible properties.  We need more properties!  Properties a
 Now we should have at least six individual and unique Flower objects we can use.
 Lets find the best new properties and integrate them into our class-wide Flower object.
 
-###Cross-Pollination Challenge
+### Cross-Pollination Challenge
 
 Now that we are awesome Flower experts, lets try our hand at cross-pollinating two flower objects to create an
 entirely **NEW** Flower object!  
@@ -121,7 +121,7 @@ entirely **NEW** Flower object!
 -  If we are consistent botanists all of our objects will have the same methods and properties.  
 
 
-###Object-in-Object Challenge
+### Object-in-Object Challenge
 - Create a vase object which simply contains an array of flower objects.
 - Crate a method placeFlower() that accepts a flower object as a parameter and inserts the object into the array
 - Create a wilt() method that decrements each flower by one petal. :(
