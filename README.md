@@ -120,8 +120,28 @@ entirely **NEW** Flower object!
 -  If we are consistent botanists all of our objects will have the same methods and properties.  
 
 
-### Object-in-Object Challenge
+### Stretch Challenge
 - Create a vase object which simply contains an array of flower objects.
 - Crate a method placeFlower() that accepts a flower object as a parameter and inserts the object into the array
 - Create a wilt() method that decrements each flower by one petal. :(
 - Create a water() method that increments each flower by one petal. :)  
+
+## Getting Started
+
+1. Fork this repo, and clone it into your `develop` folder on your local machine.
+2. Work on the challenges in either the node console, chrome console or whatever method you feel comfortable to complete the challenges.
+3. Once you are finished create a `solutions.js` file that has each of your solutions with a comment above it.
+ ```
+ solutions.js
+
+ //cross-pollination solutions
+
+ //your code here
+ etc.
+ ```
+
+
+## Submission
+
+* As you make code changes, frequently commit and push to GitHub.
+* Once you've finished the assignment and pushed your work to GitHub, make a pull request from your fork to the original repo.
