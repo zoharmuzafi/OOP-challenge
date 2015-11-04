@@ -94,12 +94,11 @@ made.  The main difference is that they can be customized with specific properti
 at the time of object instantiation.
 
 <h3>Pair Challenge</h3>
-Create a custom Flower object based on the flower on your table.  Decided amongst your
-tablemates the type of flower, the flower's main color, number of petals, and whether or not it smells pretty.
+Create a custom Flower object based on the flower on your table.  Decided amongst your pair the type of flower, the flower's main color, number of petals, and whether or not it smells pretty.
 Think up some other possible properties.  We need more properties!  Properties are great!  
 
 
-Now we should have at least six individual and unique Flower objects we can use.
+Now we should have at least seven individual and unique Flower objects we can use.
 Lets find the best new properties and integrate them into our class-wide Flower object.
 
 ### Cross-Pollination Challenge
