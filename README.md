@@ -114,7 +114,7 @@ entirely **NEW** Flower object!
 
 *Thought experiment: Could we create an intermediary object, maybe called Bee, that could facilitate cross-pollination and return a new flower? Flowers don't just bash their heads together and make new flowers in the real world!  They need bees!  What are some methods we could assign to a Bee object?*
 
-<h3>Uber Challenge</h3>
+### Uber Challenge
 -  Create a method within the Flower object that will render a description of your flower along with all of its vital statistics we have collected as well as an image to a simple website.  
 -  Name your webpage "The San Francisco First Annual General Assembly Parade of Flowers."  
 -  If we are consistent botanists all of our objects will have the same methods and properties.  
@@ -144,4 +144,4 @@ entirely **NEW** Flower object!
 ## Submission
 
 * As you make code changes, frequently commit and push to GitHub.
-* Once you've finished the assignment and pushed your work to GitHub, make a pull request from your fork to the original repo. 
+* Once you've finished the assignment and pushed your work to GitHub, make a pull request from your fork to the original repo.
