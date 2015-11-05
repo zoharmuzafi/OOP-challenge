@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>The San Francisco First Annual General Assembly Parade of Flowers</title>
+</head>
+<body>
+	<script id= "newDiv" type="text/x-handlebars-template">
+		{{#each flower}}
+			<div>
+				<h1>{{name}}</h1>
+				<p>color:{{color}}</p>
+				<p>petals: {{petals}}</p>
+				<p>cost: {{price}}</p>
+				<p>age: {{age}}</p>
+				{{#if smells}}
+	            	<p>smells: yes!</p>
+	            {{else}}
+	            	<p>smells: no!</p>
+	            {{/if}}
+			</div>
+		{{/each}}
+	</script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.4/handlebars.js"></script>
+<script type="text/javascript" src="main.js"></script>
+
+</body>
+</html>
+
+
